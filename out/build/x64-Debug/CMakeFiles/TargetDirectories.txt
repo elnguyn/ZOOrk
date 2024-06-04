@@ -1,0 +1,3 @@
+C:/Users/thaon/OneDrive - LA TROBE UNIVERSITY/PSD/ZOOrk/out/build/x64-Debug/CMakeFiles/ZOOrk.dir
+C:/Users/thaon/OneDrive - LA TROBE UNIVERSITY/PSD/ZOOrk/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/thaon/OneDrive - LA TROBE UNIVERSITY/PSD/ZOOrk/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
